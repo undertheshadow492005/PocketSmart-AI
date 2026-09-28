@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmartAI - Smart Budget & Recommendation",
+  "description": "AI-powered smart budget allocation and vendor recommendation platform for Home Interior Planning, Event & Party Budgeting, and Occasion Jewelry styling with multimodal vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
